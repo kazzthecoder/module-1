@@ -1,0 +1,22 @@
+1965,Ford Mustang,true
+2019,Subaru,false
+1920,Baker Electric,true
+1970,Pontiac GTO,true
+2018,Toyota Camry,false
+
+
+
+ public boolean receiveECheck = (int yearToCheck) {
+        boolean getTested = false;
+
+        if (yearToCheck % 2 == getYear() % 2) {
+            getTested = true;
+        }
+        if (getAge() > 25) {
+            getTested = false;
+        }
+        if (getAge() < 4) {
+            getTested = false;
+        }
+        return getTested;
+    }

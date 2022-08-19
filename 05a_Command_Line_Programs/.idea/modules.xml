@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/05a_Command_Line_Programs.iml" filepath="$PROJECT_DIR$/.idea/05a_Command_Line_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/command-line-programs-exercise.iml" filepath="$PROJECT_DIR$/exercise/command-line-programs-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial/command-line-programs-tutorial.iml" filepath="$PROJECT_DIR$/tutorial/command-line-programs-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-final/command-line-programs-tutorial-final.iml" filepath="$PROJECT_DIR$/tutorial-final/command-line-programs-tutorial-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pair-exercise/m01d05-command-line-programs-exercises-pair.iml" filepath="$PROJECT_DIR$/pair-exercise/m01d05-command-line-programs-exercises-pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture/m01d05-command-line-programs-lecture.iml" filepath="$PROJECT_DIR$/lecture/m01d05-command-line-programs-lecture.iml" />
+    </modules>
+  </component>
+</project>
